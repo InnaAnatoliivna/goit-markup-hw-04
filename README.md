@@ -17,6 +17,6 @@
   width: calc((100% - 72px)/4);
 
 
-<div class="card-team"></div>
+
 
 
